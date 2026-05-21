@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=200&section=header&text=Lenny%20Valer&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20SQL%20%7C%20AWS%20%7C%20BI&descAlignY=55&descColor=a8d8ff" />
+</div>
+
+
 <!-- Animated header -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Lenny+Valer+%F0%9F%91%8B;Data+Analyst+%7C+SQL+%7C+Power+BI;Cloud+%C2%B7+AWS+%C2%B7+Athena+%F0%9F%93%8A;Turning+data+into+decisions+%F0%9F%9A%80" alt="Typing SVG" />
