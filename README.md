@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Lenny+Valer+%F0%9F%91%8B;Data+Analyst+%7C+SQL+%7C+Power+BI;Cloud+%C2%B7+AWS+%C2%B7+Athena+%F0%9F%93%8A;Turning+data+into+decisions+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-
 ---
 
 🎓 Estudiante de Computación Científica
@@ -69,12 +68,12 @@ class Lenny(DataProfessional):
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LennyValer1&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LennyValer1&layout=compact&theme=github_dark&hide_border=true" width="40%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LennyValer1&theme=github-dark&hide_border=true" width="70%"/>
 </div>
 
----
 
 <div align="center">
-  <i>✨ "Turning data into decisions" ✨</i>
+  <img src="https://komarev.com/ghpvc/?username=LennyValer1&color=58a6ff&style=flat&label=Profile+Views" />
+  <br><br>
+  <i>📬 Contáctame en <a href="https://linkedin.com/in/lennyva">LinkedIn</a></i>
 </div>
