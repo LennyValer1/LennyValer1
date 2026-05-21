@@ -9,13 +9,20 @@
 </div>
 
 ---
+<div align="center">
 
 🎓 Estudiante de Computación Científica
+<br>
 📊 Data Analyst en **Prestamype** · factoring & financiamiento
+<br>
 🌱 Apasionada por transformar datos en decisiones estratégicas
+<br>
 📍 Lima, Perú 🇵🇪
 
+</div>
+
 ---
+</div>
 
 ## ⚡ Sobre mí
 
